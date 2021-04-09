@@ -7,7 +7,7 @@
 #include <cassert>
 
 
-static bool filter_number(char * buf)
+static bool filter_number(char * buf, uint32 &size)
 {
 	if (!buf)
 	{
@@ -17,17 +17,15 @@ static bool filter_number(char * buf)
 	int pre_index = 0;
 	while (buf[cur_index] != '\0')
 	{
-		if (buf[cur_index] > '9' || buf[cur_index] < '0' || buf[cur_index] == '.')
-		{
-			
-		}
-		else
+		if (buf[cur_index] == '.'|| (buf[cur_index] <= '9' && buf[cur_index] >= '0'))
 		{
 			buf[pre_index++] = buf[cur_index];
 		}
+		
 		++cur_index;
 	}
 	buf[pre_index] = '\0';
+	size = pre_index;
 	return true;
 }
 
@@ -99,7 +97,7 @@ bool file_table::init(const char * file_name)
 	while (p[index] != '\0')
 	{
 		::memset(appfix, 0, 1024 * 1024 * 70);
-		int size = 0;
+		uint32 size = 0;
 		uint32 column = 0;//列
 		while (p[index] != CHAR_END)
 		{
@@ -113,6 +111,7 @@ bool file_table::init(const char * file_name)
 				
 				if (row != 0)
 				{
+					filter_number(&appfix[0], size);
 					//没有奖励名次就过滤了  100.000过滤
 					if (size > 0 && ((row  == 1)|| (row != 1 && std::atoi(appfix) != 100)))
 					{
@@ -156,11 +155,11 @@ bool file_table::init(const char * file_name)
 						}
 						++cur_index;
 					}
-					if (!filter_number(&first_left[0]))
+					if (!filter_number(&first_left[0], first_left_index))
 					{
 						assert(-1);
 					}
-					if (!filter_number(&second_right[0]))
+					if (!filter_number(&second_right[0], second_right_index))
 					{
 						assert(-1);
 					}
@@ -184,7 +183,7 @@ bool file_table::init(const char * file_name)
 					}
 					m_fd << "[level = " << table.index << "][left = " << table.left << "][ right = " << table.right << "]";
 					printf("level = %u, left = %u, right = %u\n", table.index, table.left, table.right);
-					m_fd.flush();
+					//m_fd.flush();
 					//char *first_left = &appfix[0];
 				}
 				size = 0;
@@ -198,7 +197,7 @@ bool file_table::init(const char * file_name)
 		m_fd << "[iFileLength =  "<< iFileLength <<"]end --->[ index =   "  << p[index] << "][appfix =  " << appfix <<" ]\n";
 		printf("[iFileLength = %u]end ---> index = %d[%d][appfix = %s]\n", iFileLength,  index, p[index], appfix);
 		++index;
-		m_fd.flush();
+		//m_fd.flush();
 	}
 	if (appfix)
 	{
