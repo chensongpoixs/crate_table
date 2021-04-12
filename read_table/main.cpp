@@ -17,22 +17,39 @@ struct ctable_json_name
 {
 	char * m_input_name;
 	char * m_output_name;
+	bool  m_rank;
 };
 
 
 struct ctable_json_name table_name_list[] = 
 {
+	/*
 	{
 		"Eight_Handed_Payouts.tab",
-		"Eight_Handed_Payouts.json"
+		"Eight_Handed_Payouts.json",
+		false
 	},
 	{
 		"Savage_Payouts1in8Final.tab",
-		"Savage_Payouts1in8Final.json"
+		"Savage_Payouts1in8Final.json",
+		false
 	},
 	{
 		"Six_Handed_Payouts.tab",
-		"Six_Handed_Payouts.json"
+		"Six_Handed_Payouts.json",
+		false
+	}
+	,
+	*/
+	/*{
+		"15.tab",
+		"15.json",
+		true
+	}
+	,*/{
+		"20.tab",
+		"20.json",
+		true
 	}
 };
 
@@ -43,7 +60,7 @@ int main(int argc, char *argv[])
 	for (uint32 i = 0; i < sizeof(table_name_list) / sizeof(struct ctable_json_name); ++i)
 	{
 		file_table table;
-		if (!table.init(table_name_list[i].m_input_name))
+		if (!table.init(table_name_list[i].m_input_name, table_name_list[i].m_rank))
 		{
 			return -1;
 		}

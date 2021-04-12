@@ -27,22 +27,38 @@ struct ctable_data
 		, left(0)
 		, right(0) {}
 };
+struct ctable_rank_nums
+{
+	uint32 m_index;
+	uint32 m_left;
+	uint32 m_right;
+	ctable_rank_nums()
+		: m_index(0)
+		, m_left(0)
+		, m_right(0) {}
+};
 class file_table
 {
 public:
 	file_table();
 	~file_table();
 public:
-	bool init(const char * file_name);
+	bool init(const char * file_name, bool rank_nums = false);
 	bool to_file_json(const char * file_name);
+	
 	void destroy();
+private:
+	bool  _read_rank_match(const char * buf);
 private:
 	typedef		std::unordered_map<uint32, std::string>		MNUMBER_RATE_MAP;
 	typedef		std::unordered_map<uint32, ctable_data>		MTABLE_DATA_LEVLE_MAP;
+	typedef		std::unordered_map<uint32, ctable_rank_nums>  MTABLE_RANK_MAP;
 	typedef		std::unordered_map<uint32, MNUMBER_RATE_MAP>	MTABLE_LEVEL_RATE_MAP;
+	typedef		std::unordered_map<uint32, MTABLE_RANK_MAP>	MTABLE_RANK_NUMS_MAP;
 private:
 	MTABLE_DATA_LEVLE_MAP										m_table_left_right_map;  // level -> [left , right]
-	MTABLE_LEVEL_RATE_MAP										m_table_level_rate_map;  // level -----> [名次-> rate] 
+	MTABLE_LEVEL_RATE_MAP										m_table_level_rate_map;  // level -----> [名次-> rate]
+	MTABLE_RANK_MAP												m_table_rank_nums_map;
 
 };
 

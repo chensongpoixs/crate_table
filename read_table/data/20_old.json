@@ -1,0 +1,3402 @@
+{ 
+ "id":1, 
+"number_left":1, 
+"number_right":2, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":100 
+}
+]
+},
+{ 
+ "id":2, 
+"number_left":3, 
+"number_right":10, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":70 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":30 
+}
+]
+},
+{ 
+ "id":3, 
+"number_left":11, 
+"number_right":20, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":70 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":25 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":20 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":15 
+}
+]
+},
+{ 
+ "id":4, 
+"number_left":21, 
+"number_right":30, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":40 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":22 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":15 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":11 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":9 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":8 
+}
+]
+},
+{ 
+ "id":5, 
+"number_left":31, 
+"number_right":40, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":35 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":20 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":12 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":9 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":8 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":7 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":6 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":5 
+}
+]
+},
+{ 
+ "id":6, 
+"number_left":41, 
+"number_right":50, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":33 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":19 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":9.8 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":8.8 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":7.8 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":6.8 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":5.5 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":4.4 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":3.7 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":3.2 
+}
+]
+},
+{ 
+ "id":7, 
+"number_left":51, 
+"number_right":75, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":31 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":17.5 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":8.9 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":7.9 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":6.9 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":5.9 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":4.7 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":3.5 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":2.9 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":2.3 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":2.1 
+}
+]
+},
+{ 
+ "id":8, 
+"number_left":76, 
+"number_right":100, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":29 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":17 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":8.4 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":7.5 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":6.5 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":5.5 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":4.3 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":2.9 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":2.6 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":1.8 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":1.8 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":1.3 
+}
+]
+},
+{ 
+ "id":9, 
+"number_left":101, 
+"number_right":125, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":28 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":16.5 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":8.2 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":7.2 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":6.2 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":5.2 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":4 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":2.7 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":2.4 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":1.6 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":1.6 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":1.15 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":1.05 
+}
+]
+},
+{ 
+ "id":10, 
+"number_left":126, 
+"number_right":150, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":27 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":16 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":8.1 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":7.1 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":6.1 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":5.1 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":3.9 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":2.6 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":2.3 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":1.55 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":1.55 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":1.05 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.9 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.75 
+}
+]
+},
+{ 
+ "id":11, 
+"number_left":151, 
+"number_right":200, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":26 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":15.5 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":7.9 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":6.9 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":5.9 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":4.9 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":3.7 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":2.4 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":2.1 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":1.45 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":1.45 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.95 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.75 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.6 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.55 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.55 
+}
+]
+},
+{ 
+ "id":12, 
+"number_left":201, 
+"number_right":250, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":25 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":15 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":7.8 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":6.8 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":5.8 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":4.8 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":3.6 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":2.3 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":2 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":1.4 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":1.4 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.8 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.7 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.55 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.5 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.45 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.45 
+}
+]
+},
+{ 
+ "id":13, 
+"number_left":251, 
+"number_right":300, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":24 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":14.5 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":7.7 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":6.7 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":5.7 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":4.7 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":3.5 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":2.2 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":1.9 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":1.3 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":1.3 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.8 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.7 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.55 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.5 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.45 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.4 
+}
+,
+{
+ "ranking_left":51,
+ "ranking_right":60, 
+"bonus_rate":0.33 
+}
+]
+},
+{ 
+ "id":14, 
+"number_left":301, 
+"number_right":400, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":23 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":14.25 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":7.6 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":6.6 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":5.6 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":4.6 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":3.4 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":2.1 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":1.8 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":1.25 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":1.25 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.75 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.65 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.55 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.45 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.4 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.35 
+}
+,
+{
+ "ranking_left":51,
+ "ranking_right":60, 
+"bonus_rate":0.31 
+}
+,
+{
+ "ranking_left":61,
+ "ranking_right":75, 
+"bonus_rate":0.23 
+}
+]
+},
+{ 
+ "id":15, 
+"number_left":401, 
+"number_right":500, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":22 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":14 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":7.5 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":6.5 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":5.5 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":4.5 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":3.3 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":2 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":1.7 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":1.2 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":1.2 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.75 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.6 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.5 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.4 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.35 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.31 
+}
+,
+{
+ "ranking_left":51,
+ "ranking_right":60, 
+"bonus_rate":0.26 
+}
+,
+{
+ "ranking_left":61,
+ "ranking_right":75, 
+"bonus_rate":0.19 
+}
+,
+{
+ "ranking_left":76,
+ "ranking_right":100, 
+"bonus_rate":0.17 
+}
+]
+},
+{ 
+ "id":16, 
+"number_left":501, 
+"number_right":600, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":21.5 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":13.75 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":7.4 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":6.4 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":5.4 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":4.4 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":3.2 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":1.9 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":1.6 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":1.15 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":1.15 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.7 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.55 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.45 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.35 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.3 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.25 
+}
+,
+{
+ "ranking_left":51,
+ "ranking_right":60, 
+"bonus_rate":0.22 
+}
+,
+{
+ "ranking_left":61,
+ "ranking_right":75, 
+"bonus_rate":0.19 
+}
+,
+{
+ "ranking_left":76,
+ "ranking_right":100, 
+"bonus_rate":0.17 
+}
+,
+{
+ "ranking_left":101,
+ "ranking_right":125, 
+"bonus_rate":0.16 
+}
+]
+},
+{ 
+ "id":17, 
+"number_left":601, 
+"number_right":800, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":21 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":13.5 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":7.4 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":6.4 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":5.4 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":4.4 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":3.2 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":1.9 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":1.6 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":1.15 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":1.15 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.65 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.5 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.4 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.3 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.25 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.21 
+}
+,
+{
+ "ranking_left":51,
+ "ranking_right":60, 
+"bonus_rate":0.19 
+}
+,
+{
+ "ranking_left":61,
+ "ranking_right":75, 
+"bonus_rate":0.17 
+}
+,
+{
+ "ranking_left":76,
+ "ranking_right":100, 
+"bonus_rate":0.16 
+}
+,
+{
+ "ranking_left":101,
+ "ranking_right":125, 
+"bonus_rate":0.15 
+}
+,
+{
+ "ranking_left":126,
+ "ranking_right":150, 
+"bonus_rate":0.14 
+}
+]
+},
+{ 
+ "id":18, 
+"number_left":801, 
+"number_right":900, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":20.5 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":13.25 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":7.2 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":6.2 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":5.2 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":4.2 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":3 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":1.8 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":1.5 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":1.1 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":1.1 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.6 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.5 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.4 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.3 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.25 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.21 
+}
+,
+{
+ "ranking_left":51,
+ "ranking_right":60, 
+"bonus_rate":0.19 
+}
+,
+{
+ "ranking_left":61,
+ "ranking_right":75, 
+"bonus_rate":0.17 
+}
+,
+{
+ "ranking_left":76,
+ "ranking_right":100, 
+"bonus_rate":0.15 
+}
+,
+{
+ "ranking_left":101,
+ "ranking_right":125, 
+"bonus_rate":0.14 
+}
+,
+{
+ "ranking_left":126,
+ "ranking_right":150, 
+"bonus_rate":0.13 
+}
+,
+{
+ "ranking_left":151,
+ "ranking_right":175, 
+"bonus_rate":0.13 
+}
+]
+},
+{ 
+ "id":19, 
+"number_left":901, 
+"number_right":1000, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":20 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":13 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":7.2 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":6.2 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":5.2 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":4.2 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":3 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":1.8 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":1.5 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":1.1 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":1.1 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.6 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.5 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.4 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.3 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.25 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.21 
+}
+,
+{
+ "ranking_left":51,
+ "ranking_right":60, 
+"bonus_rate":0.18 
+}
+,
+{
+ "ranking_left":61,
+ "ranking_right":75, 
+"bonus_rate":0.16 
+}
+,
+{
+ "ranking_left":76,
+ "ranking_right":100, 
+"bonus_rate":0.13 
+}
+,
+{
+ "ranking_left":101,
+ "ranking_right":125, 
+"bonus_rate":0.12 
+}
+,
+{
+ "ranking_left":126,
+ "ranking_right":150, 
+"bonus_rate":0.12 
+}
+,
+{
+ "ranking_left":151,
+ "ranking_right":175, 
+"bonus_rate":0.11 
+}
+,
+{
+ "ranking_left":176,
+ "ranking_right":200, 
+"bonus_rate":0.11 
+}
+]
+},
+{ 
+ "id":20, 
+"number_left":1001, 
+"number_right":1250, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":19.5 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":12.75 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":7 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":6 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":5 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":4 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":2.8 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":1.7 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":1.3 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":1.05 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":1.05 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.6 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.5 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.4 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.3 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.25 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.21 
+}
+,
+{
+ "ranking_left":51,
+ "ranking_right":60, 
+"bonus_rate":0.18 
+}
+,
+{
+ "ranking_left":61,
+ "ranking_right":75, 
+"bonus_rate":0.15 
+}
+,
+{
+ "ranking_left":76,
+ "ranking_right":100, 
+"bonus_rate":0.12 
+}
+,
+{
+ "ranking_left":101,
+ "ranking_right":125, 
+"bonus_rate":0.11 
+}
+,
+{
+ "ranking_left":126,
+ "ranking_right":150, 
+"bonus_rate":0.1 
+}
+,
+{
+ "ranking_left":151,
+ "ranking_right":175, 
+"bonus_rate":0.09 
+}
+,
+{
+ "ranking_left":176,
+ "ranking_right":200, 
+"bonus_rate":0.09 
+}
+,
+{
+ "ranking_left":201,
+ "ranking_right":225, 
+"bonus_rate":0.09 
+}
+,
+{
+ "ranking_left":226,
+ "ranking_right":250, 
+"bonus_rate":0.09 
+}
+]
+},
+{ 
+ "id":21, 
+"number_left":1251, 
+"number_right":1500, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":19 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":12.5 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":6.9 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":5.9 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":4.9 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":3.8 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":2.7 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":1.6 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":1.2 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":0.95 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":0.95 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.55 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.45 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.35 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.25 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.21 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.18 
+}
+,
+{
+ "ranking_left":51,
+ "ranking_right":60, 
+"bonus_rate":0.17 
+}
+,
+{
+ "ranking_left":61,
+ "ranking_right":75, 
+"bonus_rate":0.15 
+}
+,
+{
+ "ranking_left":76,
+ "ranking_right":100, 
+"bonus_rate":0.12 
+}
+,
+{
+ "ranking_left":101,
+ "ranking_right":125, 
+"bonus_rate":0.11 
+}
+,
+{
+ "ranking_left":126,
+ "ranking_right":150, 
+"bonus_rate":0.1 
+}
+,
+{
+ "ranking_left":151,
+ "ranking_right":175, 
+"bonus_rate":0.09 
+}
+,
+{
+ "ranking_left":176,
+ "ranking_right":200, 
+"bonus_rate":0.09 
+}
+,
+{
+ "ranking_left":201,
+ "ranking_right":225, 
+"bonus_rate":0.09 
+}
+,
+{
+ "ranking_left":226,
+ "ranking_right":250, 
+"bonus_rate":0.08 
+}
+,
+{
+ "ranking_left":251,
+ "ranking_right":275, 
+"bonus_rate":0.08 
+}
+,
+{
+ "ranking_left":276,
+ "ranking_right":300, 
+"bonus_rate":0.08 
+}
+]
+},
+{ 
+ "id":22, 
+"number_left":1501, 
+"number_right":1750, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":18.5 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":12.25 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":6.9 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":5.9 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":4.9 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":3.8 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":2.7 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":1.6 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":1.2 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":0.95 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":0.95 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.5 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.4 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.3 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.2 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.18 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.17 
+}
+,
+{
+ "ranking_left":51,
+ "ranking_right":60, 
+"bonus_rate":0.15 
+}
+,
+{
+ "ranking_left":61,
+ "ranking_right":75, 
+"bonus_rate":0.13 
+}
+,
+{
+ "ranking_left":76,
+ "ranking_right":100, 
+"bonus_rate":0.12 
+}
+,
+{
+ "ranking_left":101,
+ "ranking_right":125, 
+"bonus_rate":0.11 
+}
+,
+{
+ "ranking_left":126,
+ "ranking_right":150, 
+"bonus_rate":0.1 
+}
+,
+{
+ "ranking_left":151,
+ "ranking_right":175, 
+"bonus_rate":0.09 
+}
+,
+{
+ "ranking_left":176,
+ "ranking_right":200, 
+"bonus_rate":0.08 
+}
+,
+{
+ "ranking_left":201,
+ "ranking_right":225, 
+"bonus_rate":0.08 
+}
+,
+{
+ "ranking_left":226,
+ "ranking_right":250, 
+"bonus_rate":0.08 
+}
+,
+{
+ "ranking_left":251,
+ "ranking_right":275, 
+"bonus_rate":0.07 
+}
+,
+{
+ "ranking_left":276,
+ "ranking_right":300, 
+"bonus_rate":0.07 
+}
+,
+{
+ "ranking_left":301,
+ "ranking_right":350, 
+"bonus_rate":0.07 
+}
+]
+},
+{ 
+ "id":23, 
+"number_left":1751, 
+"number_right":2000, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":18 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":12 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":6.8 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":5.8 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":4.8 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":3.7 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":2.6 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":1.5 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":1.1 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":0.9 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":0.9 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.5 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.4 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.3 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.2 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.18 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.17 
+}
+,
+{
+ "ranking_left":51,
+ "ranking_right":60, 
+"bonus_rate":0.15 
+}
+,
+{
+ "ranking_left":61,
+ "ranking_right":75, 
+"bonus_rate":0.13 
+}
+,
+{
+ "ranking_left":76,
+ "ranking_right":100, 
+"bonus_rate":0.12 
+}
+,
+{
+ "ranking_left":101,
+ "ranking_right":125, 
+"bonus_rate":0.11 
+}
+,
+{
+ "ranking_left":126,
+ "ranking_right":150, 
+"bonus_rate":0.1 
+}
+,
+{
+ "ranking_left":151,
+ "ranking_right":175, 
+"bonus_rate":0.09 
+}
+,
+{
+ "ranking_left":176,
+ "ranking_right":200, 
+"bonus_rate":0.08 
+}
+,
+{
+ "ranking_left":201,
+ "ranking_right":225, 
+"bonus_rate":0.07 
+}
+,
+{
+ "ranking_left":226,
+ "ranking_right":250, 
+"bonus_rate":0.07 
+}
+,
+{
+ "ranking_left":251,
+ "ranking_right":275, 
+"bonus_rate":0.07 
+}
+,
+{
+ "ranking_left":276,
+ "ranking_right":300, 
+"bonus_rate":0.06 
+}
+,
+{
+ "ranking_left":301,
+ "ranking_right":350, 
+"bonus_rate":0.06 
+}
+,
+{
+ "ranking_left":351,
+ "ranking_right":400, 
+"bonus_rate":0.06 
+}
+]
+},
+{ 
+ "id":24, 
+"number_left":2001, 
+"number_right":2250, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":17.5 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":11.75 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":6.7 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":5.7 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":4.7 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":3.6 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":2.5 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":1.4 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":1 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":0.8 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":0.8 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.45 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.35 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.25 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.2 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.18 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.16 
+}
+,
+{
+ "ranking_left":51,
+ "ranking_right":60, 
+"bonus_rate":0.14 
+}
+,
+{
+ "ranking_left":61,
+ "ranking_right":75, 
+"bonus_rate":0.13 
+}
+,
+{
+ "ranking_left":76,
+ "ranking_right":100, 
+"bonus_rate":0.12 
+}
+,
+{
+ "ranking_left":101,
+ "ranking_right":125, 
+"bonus_rate":0.11 
+}
+,
+{
+ "ranking_left":126,
+ "ranking_right":150, 
+"bonus_rate":0.1 
+}
+,
+{
+ "ranking_left":151,
+ "ranking_right":175, 
+"bonus_rate":0.09 
+}
+,
+{
+ "ranking_left":176,
+ "ranking_right":200, 
+"bonus_rate":0.08 
+}
+,
+{
+ "ranking_left":201,
+ "ranking_right":225, 
+"bonus_rate":0.07 
+}
+,
+{
+ "ranking_left":226,
+ "ranking_right":250, 
+"bonus_rate":0.07 
+}
+,
+{
+ "ranking_left":251,
+ "ranking_right":275, 
+"bonus_rate":0.07 
+}
+,
+{
+ "ranking_left":276,
+ "ranking_right":300, 
+"bonus_rate":0.06 
+}
+,
+{
+ "ranking_left":301,
+ "ranking_right":350, 
+"bonus_rate":0.06 
+}
+,
+{
+ "ranking_left":351,
+ "ranking_right":400, 
+"bonus_rate":0.06 
+}
+,
+{
+ "ranking_left":401,
+ "ranking_right":450, 
+"bonus_rate":0.06 
+}
+]
+},
+{ 
+ "id":25, 
+"number_left":2251, 
+"number_right":2500, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":17 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":11.5 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":6.6 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":5.6 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":4.6 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":3.5 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":2.4 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":1.4 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":1 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":0.8 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":0.8 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.45 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.35 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.25 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.2 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.18 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.16 
+}
+,
+{
+ "ranking_left":51,
+ "ranking_right":60, 
+"bonus_rate":0.14 
+}
+,
+{
+ "ranking_left":61,
+ "ranking_right":75, 
+"bonus_rate":0.13 
+}
+,
+{
+ "ranking_left":76,
+ "ranking_right":100, 
+"bonus_rate":0.12 
+}
+,
+{
+ "ranking_left":101,
+ "ranking_right":125, 
+"bonus_rate":0.11 
+}
+,
+{
+ "ranking_left":126,
+ "ranking_right":150, 
+"bonus_rate":0.1 
+}
+,
+{
+ "ranking_left":151,
+ "ranking_right":175, 
+"bonus_rate":0.09 
+}
+,
+{
+ "ranking_left":176,
+ "ranking_right":200, 
+"bonus_rate":0.08 
+}
+,
+{
+ "ranking_left":201,
+ "ranking_right":225, 
+"bonus_rate":0.07 
+}
+,
+{
+ "ranking_left":226,
+ "ranking_right":250, 
+"bonus_rate":0.07 
+}
+,
+{
+ "ranking_left":251,
+ "ranking_right":275, 
+"bonus_rate":0.06 
+}
+,
+{
+ "ranking_left":276,
+ "ranking_right":300, 
+"bonus_rate":0.06 
+}
+,
+{
+ "ranking_left":301,
+ "ranking_right":350, 
+"bonus_rate":0.06 
+}
+,
+{
+ "ranking_left":351,
+ "ranking_right":400, 
+"bonus_rate":0.05 
+}
+,
+{
+ "ranking_left":401,
+ "ranking_right":450, 
+"bonus_rate":0.05 
+}
+,
+{
+ "ranking_left":451,
+ "ranking_right":500, 
+"bonus_rate":0.05 
+}
+]
+},
+{ 
+ "id":26, 
+"number_left":2501, 
+"number_right":2750, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":16.5 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":11.25 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":6.6 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":5.6 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":4.6 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":3.5 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":2.4 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":1.4 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":1 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":0.8 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":0.8 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.35 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.3 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.2 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.19 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.16 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.15 
+}
+,
+{
+ "ranking_left":51,
+ "ranking_right":60, 
+"bonus_rate":0.14 
+}
+,
+{
+ "ranking_left":61,
+ "ranking_right":75, 
+"bonus_rate":0.13 
+}
+,
+{
+ "ranking_left":76,
+ "ranking_right":100, 
+"bonus_rate":0.12 
+}
+,
+{
+ "ranking_left":101,
+ "ranking_right":125, 
+"bonus_rate":0.11 
+}
+,
+{
+ "ranking_left":126,
+ "ranking_right":150, 
+"bonus_rate":0.1 
+}
+,
+{
+ "ranking_left":151,
+ "ranking_right":175, 
+"bonus_rate":0.09 
+}
+,
+{
+ "ranking_left":176,
+ "ranking_right":200, 
+"bonus_rate":0.08 
+}
+,
+{
+ "ranking_left":201,
+ "ranking_right":225, 
+"bonus_rate":0.07 
+}
+,
+{
+ "ranking_left":226,
+ "ranking_right":250, 
+"bonus_rate":0.07 
+}
+,
+{
+ "ranking_left":251,
+ "ranking_right":275, 
+"bonus_rate":0.06 
+}
+,
+{
+ "ranking_left":276,
+ "ranking_right":300, 
+"bonus_rate":0.06 
+}
+,
+{
+ "ranking_left":301,
+ "ranking_right":350, 
+"bonus_rate":0.06 
+}
+,
+{
+ "ranking_left":351,
+ "ranking_right":400, 
+"bonus_rate":0.05 
+}
+,
+{
+ "ranking_left":401,
+ "ranking_right":450, 
+"bonus_rate":0.05 
+}
+,
+{
+ "ranking_left":451,
+ "ranking_right":500, 
+"bonus_rate":0.05 
+}
+,
+{
+ "ranking_left":501,
+ "ranking_right":550, 
+"bonus_rate":0.04 
+}
+]
+},
+{ 
+ "id":27, 
+"number_left":2751, 
+"number_right":3000, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":16 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":11 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":6.4 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":5.4 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":4.4 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":3.4 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":2.3 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":1.3 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":0.95 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":0.75 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":0.75 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.35 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.3 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.2 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.19 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.16 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.15 
+}
+,
+{
+ "ranking_left":51,
+ "ranking_right":60, 
+"bonus_rate":0.14 
+}
+,
+{
+ "ranking_left":61,
+ "ranking_right":75, 
+"bonus_rate":0.13 
+}
+,
+{
+ "ranking_left":76,
+ "ranking_right":100, 
+"bonus_rate":0.12 
+}
+,
+{
+ "ranking_left":101,
+ "ranking_right":125, 
+"bonus_rate":0.11 
+}
+,
+{
+ "ranking_left":126,
+ "ranking_right":150, 
+"bonus_rate":0.1 
+}
+,
+{
+ "ranking_left":151,
+ "ranking_right":175, 
+"bonus_rate":0.09 
+}
+,
+{
+ "ranking_left":176,
+ "ranking_right":200, 
+"bonus_rate":0.08 
+}
+,
+{
+ "ranking_left":201,
+ "ranking_right":225, 
+"bonus_rate":0.07 
+}
+,
+{
+ "ranking_left":226,
+ "ranking_right":250, 
+"bonus_rate":0.07 
+}
+,
+{
+ "ranking_left":251,
+ "ranking_right":275, 
+"bonus_rate":0.06 
+}
+,
+{
+ "ranking_left":276,
+ "ranking_right":300, 
+"bonus_rate":0.06 
+}
+,
+{
+ "ranking_left":301,
+ "ranking_right":350, 
+"bonus_rate":0.06 
+}
+,
+{
+ "ranking_left":351,
+ "ranking_right":400, 
+"bonus_rate":0.05 
+}
+,
+{
+ "ranking_left":401,
+ "ranking_right":450, 
+"bonus_rate":0.05 
+}
+,
+{
+ "ranking_left":451,
+ "ranking_right":500, 
+"bonus_rate":0.05 
+}
+,
+{
+ "ranking_left":501,
+ "ranking_right":550, 
+"bonus_rate":0.04 
+}
+,
+{
+ "ranking_left":551,
+ "ranking_right":600, 
+"bonus_rate":0.04 
+}
+]
+},
+{ 
+ "id":28, 
+"number_left":3001, 
+"number_right":10000, 
+"match_bonus_list": [
+{
+ "ranking_left":1,
+ "ranking_right":1, 
+"bonus_rate":15.5 
+}
+,
+{
+ "ranking_left":2,
+ "ranking_right":2, 
+"bonus_rate":10.75 
+}
+,
+{
+ "ranking_left":3,
+ "ranking_right":3, 
+"bonus_rate":6.4 
+}
+,
+{
+ "ranking_left":4,
+ "ranking_right":4, 
+"bonus_rate":5.4 
+}
+,
+{
+ "ranking_left":5,
+ "ranking_right":5, 
+"bonus_rate":4.4 
+}
+,
+{
+ "ranking_left":6,
+ "ranking_right":6, 
+"bonus_rate":3.4 
+}
+,
+{
+ "ranking_left":7,
+ "ranking_right":7, 
+"bonus_rate":2.3 
+}
+,
+{
+ "ranking_left":8,
+ "ranking_right":8, 
+"bonus_rate":1.3 
+}
+,
+{
+ "ranking_left":9,
+ "ranking_right":9, 
+"bonus_rate":0.95 
+}
+,
+{
+ "ranking_left":10,
+ "ranking_right":10, 
+"bonus_rate":0.75 
+}
+,
+{
+ "ranking_left":11,
+ "ranking_right":15, 
+"bonus_rate":0.75 
+}
+,
+{
+ "ranking_left":16,
+ "ranking_right":20, 
+"bonus_rate":0.35 
+}
+,
+{
+ "ranking_left":21,
+ "ranking_right":25, 
+"bonus_rate":0.3 
+}
+,
+{
+ "ranking_left":26,
+ "ranking_right":30, 
+"bonus_rate":0.2 
+}
+,
+{
+ "ranking_left":31,
+ "ranking_right":35, 
+"bonus_rate":0.19 
+}
+,
+{
+ "ranking_left":36,
+ "ranking_right":40, 
+"bonus_rate":0.16 
+}
+,
+{
+ "ranking_left":41,
+ "ranking_right":50, 
+"bonus_rate":0.15 
+}
+,
+{
+ "ranking_left":51,
+ "ranking_right":60, 
+"bonus_rate":0.14 
+}
+,
+{
+ "ranking_left":61,
+ "ranking_right":75, 
+"bonus_rate":0.13 
+}
+,
+{
+ "ranking_left":76,
+ "ranking_right":100, 
+"bonus_rate":0.12 
+}
+,
+{
+ "ranking_left":101,
+ "ranking_right":125, 
+"bonus_rate":0.11 
+}
+,
+{
+ "ranking_left":126,
+ "ranking_right":150, 
+"bonus_rate":0.1 
+}
+,
+{
+ "ranking_left":151,
+ "ranking_right":175, 
+"bonus_rate":0.09 
+}
+,
+{
+ "ranking_left":176,
+ "ranking_right":200, 
+"bonus_rate":0.08 
+}
+,
+{
+ "ranking_left":201,
+ "ranking_right":225, 
+"bonus_rate":0.07 
+}
+,
+{
+ "ranking_left":226,
+ "ranking_right":250, 
+"bonus_rate":0.06 
+}
+,
+{
+ "ranking_left":251,
+ "ranking_right":275, 
+"bonus_rate":0.05 
+}
+,
+{
+ "ranking_left":276,
+ "ranking_right":300, 
+"bonus_rate":0.05 
+}
+,
+{
+ "ranking_left":301,
+ "ranking_right":350, 
+"bonus_rate":0.05 
+}
+,
+{
+ "ranking_left":351,
+ "ranking_right":400, 
+"bonus_rate":0.05 
+}
+,
+{
+ "ranking_left":401,
+ "ranking_right":450, 
+"bonus_rate":0.04 
+}
+,
+{
+ "ranking_left":451,
+ "ranking_right":500, 
+"bonus_rate":0.04 
+}
+,
+{
+ "ranking_left":501,
+ "ranking_right":550, 
+"bonus_rate":0.04 
+}
+,
+{
+ "ranking_left":551,
+ "ranking_right":600, 
+"bonus_rate":0.04 
+}
+,
+{
+ "ranking_left":601,
+ "ranking_right":650, 
+"bonus_rate":0.03 
+}
+]
+},
